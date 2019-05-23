@@ -1,0 +1,14 @@
+c:\users\nads205\source\repos\EqCsvParser\EqCsvParser\bin\Debug\EqCsvParser.dll
+c:\users\nads205\source\repos\EqCsvParser\EqCsvParser\bin\Debug\EqCsvParser.pdb
+c:\users\nads205\source\repos\EqCsvParser\EqCsvParser\bin\Debug\ExcelDataReader.dll
+c:\users\nads205\source\repos\EqCsvParser\EqCsvParser\bin\Debug\ExcelDataReader.pdb
+c:\users\nads205\source\repos\EqCsvParser\EqCsvParser\bin\Debug\ExcelDataReader.xml
+c:\users\nads205\source\repos\EqCsvParser\EqCsvParser\obj\Debug\EqCsvParser.csprojAssemblyReference.cache
+c:\users\nads205\source\repos\EqCsvParser\EqCsvParser\obj\Debug\EqCsvParser.csproj.CoreCompileInputs.cache
+c:\users\nads205\source\repos\EqCsvParser\EqCsvParser\obj\Debug\EqCsvParser.csproj.CopyComplete
+c:\users\nads205\source\repos\EqCsvParser\EqCsvParser\obj\Debug\EqCsvParser.dll
+c:\users\nads205\source\repos\EqCsvParser\EqCsvParser\obj\Debug\EqCsvParser.pdb
+c:\users\nads205\source\repos\EqCsvParser\EqCsvParser\bin\Debug\CsvHelper.dll
+c:\users\nads205\source\repos\EqCsvParser\EqCsvParser\bin\Debug\System.ValueTuple.dll
+c:\users\nads205\source\repos\EqCsvParser\EqCsvParser\bin\Debug\CsvHelper.xml
+c:\users\nads205\source\repos\EqCsvParser\EqCsvParser\bin\Debug\System.ValueTuple.xml
