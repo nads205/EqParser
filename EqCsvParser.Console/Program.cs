@@ -6,7 +6,7 @@
         {
             var reader = new Reader();
             reader.ReadAllAdFiles();
-            reader.ReadHrFileNew();
+            reader.ReadHrFile();
             reader.CompareRecords();
         }
     }
